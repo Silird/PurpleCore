@@ -1,0 +1,43 @@
+# Eclipse stuff
+/.classpath
+/.project
+/.settings
+
+# netbeans
+/nbproject
+
+# we trash maven!
+/build.xml
+
+# maven
+/target
+/IQShopClient/target
+/IQShopInfrastructure/target
+/IQShopServer/target
+/IQShopRxJava/target
+iqshop-codegen-maven-plugin/target/
+
+# vim
+.*.sw[a-p]
+
+# various other potential build files
+/build
+/bin
+/dist
+/manifest.mf
+
+# Mac filesystem dust
+.DS_Store
+
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# maven stuff
+/dependency-reduced-pom.xml
+
+# other
+Config.conf
+Config.xml
